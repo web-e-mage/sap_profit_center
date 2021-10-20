@@ -1,0 +1,21 @@
+Text-symbols
+001	PROFIT CENTER - MULTILANGUAGE MIGRATION
+002	Processing completed. Please check log file for potential errors.
+003	Type
+004	Id
+005	Number
+006	Message
+007	Log Number
+008	Log Message Number
+009	Message V1
+010	Message V2
+011	Message V3
+012	Message V4
+013	Parameter
+014	Row
+015	Field
+016	System
+
+Selection-text
+P_LOG	Log File
+P_L_PATH	Import File
